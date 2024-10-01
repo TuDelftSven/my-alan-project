@@ -1,0 +1,14 @@
+{
+	"platform version": "2024.1",
+	"system types": {
+		"auto-webclient": {
+			"version": "xindi.1"
+		},
+		"datastore": {
+			"version": "113"
+		},
+		"session-manager": {
+			"version": "30"
+		}
+	}
+}
