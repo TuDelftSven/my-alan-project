@@ -107,6 +107,13 @@ root = root as $ (
 				'Dish type': stategroup = 'Appetizer' ( )
 			)
 		)
+		= (
+			'Item name': text = "kijken_of_dit_werkt"
+			'Selling price': number = 350
+			'Item type': stategroup = 'Dish' (
+				'Dish type': stategroup = 'Appetizer' ( )
+			)
+		)
 	)
 
 	'Tables': collection = <! !> (
