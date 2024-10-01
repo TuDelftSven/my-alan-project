@@ -2,4 +2,5 @@ root = root as $ (
 	'Beverage types': collection = <! !> none
 	'Menu': collection = <! !> none
 	'Tables': collection = <! !> none
+	'Orders': collection = <! !> none
 )
